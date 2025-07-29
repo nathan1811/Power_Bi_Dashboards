@@ -50,7 +50,7 @@ single, easy-to-use interface to explore market trends and compensation.
     ### Page 2: Job Title Drill Through
 
     💡
-    ![Dashboard Page 2](/images/Project1_Page2.png)
+    ![Dashboard Page 2](/Images/Project1_Page2.png)
 
     This is the deep-dive page. From the main dashboard, you
     can drill through to this view to get specific details
